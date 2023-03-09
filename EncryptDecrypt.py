@@ -1,4 +1,3 @@
-import Asciichar as ac
 def toInt(word):
     integer = []
     for i in range(len(word)):
